@@ -61,8 +61,8 @@
 ## Output:
 ![model](mechanics%20exp-3.1.png)
 
-### Name: Gumma Dileep Kumar
-### Register Number: 212222240032
+### Name: karna S
+### Register Number: 212222110017
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
